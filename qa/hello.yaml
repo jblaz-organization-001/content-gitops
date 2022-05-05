@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: content-gitops:hellov1.1
+        image: jblasdel/gitops:hellov1.0
